@@ -1,0 +1,7 @@
+node_modules
+
+# Ignore the entire images directory
+/images/
+
+index.html
+
