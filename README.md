@@ -2,17 +2,13 @@
 <img class="quadcopter" src="./images/fa-background-image.png">
 </p>
 
-<h1 align="center">
-    <a class="header-logo" href="https://github.com/cropoffquadcopter/website">quadcopter website
-        </a>
-            </h>
-<p>
-Crop-Off-Quadcopter is quadcopter programming: javascript XML / kubernetes / reactJS / gradle / nodeJS / CI/CD scripting / AWS & GCP AWS serverless technologies / c sharp (asp.net) / php / SQL / typescript / visual scripting / neural networks / tensorflow / blockchain technology / html / android  KTX & SDK / iOS SDK frameworks computer applications 
+<h1 align="center"><span style="color: #476b6b">
+    <a class="header-logo" href="https://github.com/cropoffquadcopter/website">quadcopter soft website
+        </a></span></h>
+<h3> <span style="color: #75a3a3"><p>
+crop-off-quadcopter is quadcopter programming: javascript xml / Kubernetes / reactJS / gradle / nodeJS / CI/CD scripting / AWS SageMaker / Google Cloud Platform Vertex AI / serverless technologies / c sharp (asp.net) / php / sql / TypeScript / Microsoft Visual Studio / neural networks / TensorFlow / blockchain technology / html / intellij idea / eclipse foundation / iOS sdk frameworks computer applications 
 	</p>
-<p>
-	Crop-Off-Quadcopter is quadcopter copyrighted intellectual property Dun & Bradstreet registered 
-</p>
-<p> 
-    intellectual copyrighted property as follows: programming datasets, coding on git, quadcopter brand name, computer-on-module programs & hardware-based wearable computer manufacturing suspended February 21, 2022 due to gaining proficiency in computer programming, logos, titles, descriptions, programming works, titles of computer programs as well as titles of computer programming languages are usually protected from intellectual property infringement, product disparagement, qualification defamation by copyright law
+<p>crop-off-quadcopter is copyrighted quadcopter soft, computer-on-module programs & hardware-based wearable computer manufacturing, intellectual property Dun & Bradstreet registered 
+</p></span></h3>
 
 
