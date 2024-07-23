@@ -8,7 +8,8 @@
 <h3> <span style="color: #75a3a3"><p>
 crop-off-quadcopter is quadcopter programming: javascript xml / Kubernetes / reactJS / gradle / nodeJS / CI/CD scripting / AWS SageMaker / Google Cloud Platform Vertex AI / serverless technologies / c sharp (asp.net) / php / sql / TypeScript / Microsoft Visual Studio / neural networks / TensorFlow / blockchain technology / html / intellij idea / eclipse foundation / iOS sdk frameworks computer applications 
 	</p>
-<p>crop-off-quadcopter is copyrighted quadcopter soft, computer-on-module programs & hardware-based wearable computer manufacturing, intellectual property Dun & Bradstreet registered are not taking part at any fundraising compaign
+<p>crop-off-quadcopter is copyrighted quadcopter soft, computer-on-module programs & hardware-based wearable computer manufacturing,
+<br >intellectual property Dun & Bradstreet registered are not taking part at any fundraising compaign
 </p></span></h3>
 
 
